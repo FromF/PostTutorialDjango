@@ -1,0 +1,2 @@
+# DjangoFirstPrj
+Python DjangoでPostなどができるプロジェクト
