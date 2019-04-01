@@ -20,6 +20,9 @@ $ source venv/bin/activate
 次にプロジェクトを作成
 ```
 $ pip install django==2.0.4 djangorestframework==3.8.2 channels==2.1.0
-$ django-admin startproject realtimechatserver
+$ django-admin startproject [ProjectName]
 ```
 
+### プロジェクトの作成-参考サイト
+* [Djangoプロジェクトの作成](https://www.python-izm.com/web/django/django_project/)
+* [Building A Real-Time iOS Chat Application With Django](http://lucasjackson.io/realtime-ios-chat-with-django/)
