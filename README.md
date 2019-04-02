@@ -26,3 +26,15 @@ $ django-admin startproject [ProjectName]
 ### プロジェクトの作成-参考サイト
 * [Djangoプロジェクトの作成](https://www.python-izm.com/web/django/django_project/)
 * [Building A Real-Time iOS Chat Application With Django](http://lucasjackson.io/realtime-ios-chat-with-django/)
+
+## データベースのマイグレーション
+
+```
+python manage.py migrate
+```
+
+## アプリケーションの追加
+
+```
+python manage.py startapp [ApplicationName]
+```
