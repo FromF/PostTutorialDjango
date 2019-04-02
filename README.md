@@ -1,5 +1,13 @@
-# DjangoFirstPrj
-Python DjangoでPostなどができるプロジェクト
+# Hello World
+[はじめての Django アプリ作成、その 1](https://docs.djangoproject.com/ja/2.0/intro/tutorial01/)を模写
+
+## 作成手順
+Step1.[Polls アプリケーションをつくる](https://docs.djangoproject.com/ja/2.0/intro/tutorial01/#creating-the-polls-app)
+Step2.[はじめてのビュー作成](https://docs.djangoproject.com/ja/2.0/intro/tutorial01/#write-your-first-view)
+
+## 動作チェック
+
+http://127.0.0.1:8000/polls/ を開く`Hello , world. You're at the polls index.`と表示される
 
 ## セットアップの参考サイト
 
