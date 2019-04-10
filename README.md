@@ -6,6 +6,7 @@ Python DjangoでPostなどができるプロジェクト
 masterよりブランチして各種プロジェクトを作成中...
 
 * [Hello World](https://github.com/FromF/DjangoFirstPrj/tree/HelloWorld)
+* [グレースケール変換](https://github.com/FromF/DjangoFirstPrj/tree/GrayScale)
 
 ## セットアップの参考サイト
 
