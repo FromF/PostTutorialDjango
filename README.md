@@ -1,12 +1,10 @@
-# DjangoFirstPrj
-Python DjangoでPostなどができるプロジェクト
+# Django2 でユーザー認証（ログイン認証）を実装するチュートリアル
 
-## 作成したプロジェクト
+## チュートリアルサイト
 
-masterよりブランチして各種プロジェクトを作成中...
+* [Django2 でユーザー認証（ログイン認証）を実装するチュートリアル -1- 環境構築とアプリ雛形の作成](https://it-engineer-lab.com/archives/506)
 
-* [Hello World](https://github.com/FromF/DjangoFirstPrj/tree/HelloWorld)
-* [グレースケール変換](https://github.com/FromF/DjangoFirstPrj/tree/GrayScale)
+
 
 ## セットアップの参考サイト
 
