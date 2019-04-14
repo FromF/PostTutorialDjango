@@ -7,6 +7,7 @@ masterよりブランチして各種プロジェクトを作成中...
 
 * [Hello World](https://github.com/FromF/DjangoFirstPrj/tree/HelloWorld)
 * [グレースケール変換](https://github.com/FromF/DjangoFirstPrj/tree/GrayScale)
+* [Django2 でユーザー認証（ログイン認証）を実装するチュートリアル](https://github.com/FromF/DjangoFirstPrj/tree/PostTutorial)
 
 ## セットアップの参考サイト
 
