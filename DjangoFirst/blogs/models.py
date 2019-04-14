@@ -16,3 +16,7 @@ class Post(models.Model):
     def __str__(self):
         return self.title
     
+    def get_absolute_url(self):
+        # https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-editing/
+        # return reverse('blogs:detail', kwargs={'pk': self.pk})
+        return reverse('blogs:index')

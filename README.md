@@ -4,7 +4,16 @@
 
 * [Django2 でユーザー認証（ログイン認証）を実装するチュートリアル -1- 環境構築とアプリ雛形の作成](https://it-engineer-lab.com/archives/506)
 * [Django2 でユーザー認証（ログイン認証）を実装するチュートリアル -2- サインアップとログイン・ログアウト](https://it-engineer-lab.com/archives/544)
+* [Django2 でユーザー認証（ログイン認証）を実装するチュートリアル -3- ブログアプリへの実装](https://it-engineer-lab.com/archives/737)
 
+## 補足
+**Django2 でユーザー認証（ログイン認証）を実装するチュートリアル -3- ブログアプリへの実装**にて`blogs/model.py`に下記の記述しないと行けない。完成ソースから発見
+```
+    def get_absolute_url(self):
+        # https://docs.djangoproject.com/en/2.0/ref/class-based-views/generic-editing/
+        # return reverse('blogs:detail', kwargs={'pk': self.pk})
+        return reverse('blogs:index')
+```
 
 ## セットアップの参考サイト
 
